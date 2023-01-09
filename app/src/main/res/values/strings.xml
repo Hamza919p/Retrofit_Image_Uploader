@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">CompareCarts</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="search_by_id">Search by id</string>
+    <string name="search_by_user_name">Search by user name</string>
+    <string name="search">Search</string>
+    <string name="upload">Upload</string>
+    <string name="upload_to_server">Upload</string>
+    <string name="update_receipt">Update Receipt</string>
+    <string name="update_value">Update Value</string>
+    <string name="scan">Scan</string>
+</resources>
